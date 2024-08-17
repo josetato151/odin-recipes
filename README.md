@@ -1,1 +1,1 @@
-# odin-recipes
+This is a website dedicated to the sharing of cooking recipes.
