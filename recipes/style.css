@@ -1,0 +1,21 @@
+#italic {
+    font-style: italic;
+    font-size: 16px;
+}
+
+#introduction {
+    font-family: "Verdana", sans-serif;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+
+ul li {
+    font-family: "Verdana", sans-serif;
+    color: rgb(98, 12, 31);
+}
+
+ol li {
+    font-weight: 600;
+    background-color: yellow;
+}

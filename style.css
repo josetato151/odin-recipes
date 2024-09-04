@@ -1,0 +1,42 @@
+h1 {
+    font-style: italic;
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 160px;
+}
+
+div {
+    box-sizing: border-box;
+    border: 1px solid grey;
+    width: auto;
+    height: auto;
+    background-color: #c7d4c0
+}
+
+.codfish {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    margin: 60px;
+    border-radius: 50%;
+    border: 1px solid grey;
+}
+
+.egg-salad {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    margin: 60px;
+    border-radius: 50%;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+.chicken-soup {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    margin: 60px;
+    border-radius: 50%;
+    border: 1px solid grey;
+}
